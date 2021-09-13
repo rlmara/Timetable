@@ -1,3 +1,12 @@
+Project Dependencies
+1. Pandas -  'pip install pandas'
+2. OR-Tools - 'python -m pip install --upgrade --user ortools'
+3. Openpyxl - 'pip install openpyxl'
+
+or simply call  'pip install -r requirements.txt'
+
+Please make sure the dependencies are installed before proceeding further.
+
 1. Find Input.xlsm and place it in the Input folder. There should preferrably be no other files in this folder.
 2. Fill Input.xlsm worksheets as per the instructions in the workbook. (Use excel macros 'Generate Sessions' and 'Generate Dump' in that order to generate csv output for the scheduler process.
 3. The dump files should be created in the Input folder.
