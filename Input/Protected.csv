@@ -1,0 +1,313 @@
+Session ID,Elective ID,GID,Class,Subject,TID,Teacher,RID,Room,Number of periods per cycle
+0,0,0,7A,English,0,English P1,0,7A,5
+1,1,0,7A,Maths,8,Maths P1,0,7A,6
+2,2,0,7A,Science,23,Science P6,0,7A,6
+3,3,0,7A,Social Studies,24,Social Studies P1,0,7A,6
+4,4,1,7B,English,1,English P2,1,7B,5
+5,5,1,7B,Maths,9,Maths P2,1,7B,6
+6,6,1,7B,Science,18,Science P1,1,7B,6
+7,7,1,7B,Social Studies,25,Social Studies P2,1,7B,6
+8,8,2,7C,English,2,English P3,2,7C,5
+9,9,2,7C,Maths,10,Maths P3,2,7C,6
+10,10,2,7C,Science,19,Science P2,2,7C,6
+11,11,2,7C,Social Studies,26,Social Studies P3,2,7C,6
+12,12,3,7D,English,3,English P4,3,7D,5
+13,13,3,7D,Maths,11,Maths P4,3,7D,6
+14,14,3,7D,Science,20,Science P3,3,7D,6
+15,15,3,7D,Social Studies,27,Social Studies P4,3,7D,6
+16,16,4,7E,English,0,English P1,4,7E,5
+17,17,4,7E,Maths,8,Maths P1,4,7E,6
+18,18,4,7E,Science,21,Science P4,4,7E,6
+19,19,4,7E,Social Studies,28,Social Studies P5,4,7E,6
+20,20,5,7F,English,0,English P1,5,7F,5
+21,21,5,7F,Maths,9,Maths P2,5,7F,6
+22,22,5,7F,Science,22,Science P5,5,7F,6
+23,23,5,7F,Social Studies,29,Social Studies P6,5,7F,6
+24,24,6,8A,English,0,English P1,6,8A,5
+25,25,6,8A,Maths,10,Maths P3,6,8A,6
+26,26,6,8A,Science,23,Science P6,6,8A,6
+27,27,6,8A,Social Studies,24,Social Studies P1,6,8A,6
+28,28,7,8B,English,1,English P2,7,8B,5
+29,29,7,8B,Maths,11,Maths P4,7,8B,6
+30,30,7,8B,Science,21,Science P4,7,8B,6
+31,31,7,8B,Social Studies,25,Social Studies P2,7,8B,6
+32,32,8,8C,English,1,English P2,8,8C,5
+33,33,8,8C,Maths,8,Maths P1,8,8C,6
+34,34,8,8C,Science,18,Science P1,8,8C,6
+35,35,8,8C,Social Studies,26,Social Studies P3,8,8C,6
+36,36,9,8D,English,1,English P2,9,8D,5
+37,37,9,8D,Maths,9,Maths P2,9,8D,6
+38,38,9,8D,Science,19,Science P2,9,8D,6
+39,39,9,8D,Social Studies,27,Social Studies P4,9,8D,6
+40,40,10,8E,English,2,English P3,10,8E,5
+41,41,10,8E,Maths,10,Maths P3,10,8E,6
+42,42,10,8E,Science,20,Science P3,10,8E,6
+43,43,10,8E,Social Studies,28,Social Studies P5,10,8E,6
+44,44,11,8F,English,2,English P3,11,8F,5
+45,45,11,8F,Maths,11,Maths P4,11,8F,6
+46,46,11,8F,Science,18,Science P1,11,8F,6
+47,47,11,8F,Social Studies,24,Social Studies P1,11,8F,6
+48,48,12,9A,English,2,English P3,12,9A,5
+49,49,12,9A,Maths,8,Maths P1,12,9A,6
+50,50,12,9A,Science,22,Science P5,12,9A,6
+51,51,12,9A,Social Studies,25,Social Studies P2,12,9A,6
+52,52,13,9B,English,2,English P3,13,9B,5
+53,53,13,9B,Maths,9,Maths P2,13,9B,6
+54,54,13,9B,Science,23,Science P6,13,9B,6
+55,55,13,9B,Social Studies,26,Social Studies P3,13,9B,6
+56,56,14,9C,English,3,English P4,14,9C,5
+57,57,14,9C,Maths,10,Maths P3,14,9C,6
+58,58,14,9C,Science,21,Science P4,14,9C,6
+59,59,14,9C,Social Studies,27,Social Studies P4,14,9C,6
+60,60,15,9D,English,3,English P4,15,9D,5
+61,61,15,9D,Maths,11,Maths P4,15,9D,6
+62,62,15,9D,Science,22,Science P5,15,9D,6
+63,63,15,9D,Social Studies,28,Social Studies P5,15,9D,6
+64,64,16,9E,English,0,English P1,16,9E,5
+65,65,16,9E,Maths,12,Maths S1,16,9E,6
+66,66,16,9E,Science,23,Science P6,16,9E,6
+67,67,16,9E,Social Studies,29,Social Studies P6,16,9E,6
+68,68,17,9F,English,4,English S1,17,9F,5
+69,69,17,9F,Maths,13,Maths S2,17,9F,6
+70,70,17,9F,Science,18,Science P1,17,9F,6
+71,71,17,9F,Social Studies,27,Social Studies P4,17,9F,6
+72,72,18,10A,English,3,English P4,18,10A,5
+73,73,18,10A,Maths,13,Maths S2,18,10A,6
+74,74,18,10A,Science,19,Science P2,18,10A,6
+75,75,18,10A,Social Studies,28,Social Studies P5,18,10A,6
+76,76,19,10B,English,1,English P2,19,10B,5
+77,77,19,10B,Maths,14,Maths S3,19,10B,6
+78,78,19,10B,Science,20,Science P3,19,10B,6
+79,79,19,10B,Social Studies,29,Social Studies P6,19,10B,6
+80,80,20,10C,English,5,English S2,20,10C,5
+81,81,20,10C,Maths,12,Maths S1,20,10C,6
+82,82,20,10C,Science,19,Science P2,20,10C,6
+83,83,20,10C,Social Studies,29,Social Studies P6,20,10C,6
+84,84,21,10D,English,5,English S2,21,10D,5
+85,85,21,10D,Maths,13,Maths S2,21,10D,6
+86,86,21,10D,Science,20,Science P3,21,10D,6
+87,87,21,10D,Social Studies,24,Social Studies P1,21,10D,6
+88,88,22,10E,English,3,English P4,22,10E,5
+89,89,22,10E,Maths,14,Maths S3,22,10E,6
+90,90,22,10E,Science,21,Science P4,22,10E,6
+91,91,22,10E,Social Studies,25,Social Studies P2,22,10E,6
+92,92,23,10F,English,4,English S1,23,10F,5
+93,93,23,10F,Maths,12,Maths S1,23,10F,6
+94,94,23,10F,Science,22,Science P5,23,10F,6
+95,95,23,10F,Social Studies,26,Social Studies P3,23,10F,6
+96,96,24,11A,English,5,English S2,24,11A,5
+97,97,24,11A,Maths,13,Maths S2,24,11A,6
+98,98,24,11A,Physics,31,Physics S2,24,11A,4
+99,99,24,11A,Physics Lab,31,Physics S2,40,Physics Lab,2
+100,100,24,11A,Chemistry,38,Chemistry S4,24,11A,4
+101,101,24,11A,Chemistry Lab,38,Chemistry S4,41,Chemistry Lab,2
+102,102,25,11B,English,6,English S3,25,11B,5
+103,103,25,11B,Maths,15,Maths T1,25,11B,6
+104,104,25,11B,Physics,31,Physics S2,25,11B,4
+105,105,25,11B,Physics Lab,31,Physics S2,40,Physics Lab,2
+106,106,25,11B,Chemistry,39,Chemistry S5,25,11B,4
+107,107,25,11B,Chemistry Lab,39,Chemistry S5,41,Chemistry Lab,2
+108,108,26,11C,English,6,English S3,26,11C,5
+109,109,26,11C,Maths,16,Maths T2,26,11C,6
+110,110,26,11C,Physics,30,Physics S1,26,11C,4
+111,111,26,11C,Physics Lab,30,Physics S1,40,Physics Lab,2
+112,112,26,11C,Chemistry,37,Chemistry S3,26,11C,4
+113,113,26,11C,Chemistry Lab,37,Chemistry S3,41,Chemistry Lab,2
+114,114,27,11D,English,4,English S1,27,11D,5
+115,115,27,11D,Maths,17,Maths T3,27,11D,6
+116,116,27,11D,Physics,30,Physics S1,27,11D,4
+117,117,27,11D,Physics Lab,30,Physics S1,40,Physics Lab,2
+118,118,27,11D,Chemistry,36,Chemistry S2,27,11D,4
+119,119,27,11D,Chemistry Lab,36,Chemistry S2,41,Chemistry Lab,2
+120,120,28,11E,English,7,English S4,28,11E,5
+121,121,28,11E,Maths,14,Maths S3,28,11E,6
+122,122,28,11E,Physics,30,Physics S1,28,11E,4
+123,123,28,11E,Physics Lab,30,Physics S1,40,Physics Lab,2
+124,124,28,11E,Chemistry,35,Chemistry S1,28,11E,4
+125,125,28,11E,Chemistry Lab,35,Chemistry S1,41,Chemistry Lab,2
+126,126,29,11F,English,7,English S4,29,11F,5
+127,127,29,11F,Maths,14,Maths S3,29,11F,6
+128,128,29,11F,Physics,31,Physics S2,29,11F,4
+129,129,29,11F,Physics Lab,31,Physics S2,40,Physics Lab,2
+130,130,29,11F,Chemistry,35,Chemistry S1,29,11F,4
+131,131,29,11F,Chemistry Lab,35,Chemistry S1,41,Chemistry Lab,2
+132,132,30,11G,English,4,English S1,30,11G,5
+133,133,30,11G,Maths,15,Maths T1,30,11G,6
+134,134,30,11G,Physics,32,Physics S3,30,11G,4
+135,135,30,11G,Physics Lab,32,Physics S3,40,Physics Lab,2
+136,136,30,11G,Chemistry,36,Chemistry S2,30,11G,4
+137,137,30,11G,Chemistry Lab,36,Chemistry S2,41,Chemistry Lab,2
+138,138,31,11H,English,7,English S4,31,11H,5
+139,139,31,11H,Maths,17,Maths T3,31,11H,6
+140,140,31,11H,Physics,33,Physics S4,31,11H,4
+141,141,31,11H,Physics Lab,33,Physics S4,40,Physics Lab,2
+142,142,31,11H,Chemistry,37,Chemistry S3,31,11H,4
+143,143,31,11H,Chemistry Lab,37,Chemistry S3,41,Chemistry Lab,2
+144,144,32,12A,English,4,English S1,32,12A,5
+145,145,32,12A,Maths,16,Maths T2,32,12A,6
+146,146,32,12A,Physics,34,Physics S5,32,12A,4
+147,147,32,12A,Physics Lab,34,Physics S5,40,Physics Lab,2
+148,148,32,12A,Chemistry,38,Chemistry S4,32,12A,4
+149,149,32,12A,Chemistry Lab,38,Chemistry S4,41,Chemistry Lab,2
+150,150,33,12B,English,6,English S3,33,12B,5
+151,151,33,12B,Maths,15,Maths T1,33,12B,6
+152,152,33,12B,Physics,34,Physics S5,33,12B,4
+153,153,33,12B,Physics Lab,34,Physics S5,40,Physics Lab,2
+154,154,33,12B,Chemistry,39,Chemistry S5,33,12B,4
+155,155,33,12B,Chemistry Lab,39,Chemistry S5,41,Chemistry Lab,2
+156,156,34,12C,English,5,English S2,34,12C,5
+157,157,34,12C,Maths,17,Maths T3,34,12C,6
+158,158,34,12C,Physics,32,Physics S3,34,12C,4
+159,159,34,12C,Physics Lab,32,Physics S3,40,Physics Lab,2
+160,160,34,12C,Chemistry,35,Chemistry S1,34,12C,4
+161,161,34,12C,Chemistry Lab,35,Chemistry S1,41,Chemistry Lab,2
+162,162,35,12D,English,5,English S2,35,12D,5
+163,163,35,12D,Maths,16,Maths T2,35,12D,6
+164,164,35,12D,Physics,32,Physics S3,35,12D,4
+165,165,35,12D,Physics Lab,32,Physics S3,40,Physics Lab,2
+166,166,35,12D,Chemistry,36,Chemistry S2,35,12D,4
+167,167,35,12D,Chemistry Lab,36,Chemistry S2,41,Chemistry Lab,2
+168,168,36,12E,English,6,English S3,36,12E,5
+169,169,36,12E,Maths,15,Maths T1,36,12E,6
+170,170,36,12E,Physics,33,Physics S4,36,12E,4
+171,171,36,12E,Physics Lab,33,Physics S4,40,Physics Lab,2
+172,172,36,12E,Chemistry,37,Chemistry S3,36,12E,4
+173,173,36,12E,Chemistry Lab,37,Chemistry S3,41,Chemistry Lab,2
+174,174,37,12F,English,6,English S3,37,12F,5
+175,175,37,12F,Maths,16,Maths T2,37,12F,6
+176,176,37,12F,Physics,33,Physics S4,37,12F,4
+177,177,37,12F,Physics Lab,33,Physics S4,40,Physics Lab,2
+178,178,37,12F,Chemistry,38,Chemistry S4,37,12F,4
+179,179,37,12F,Chemistry Lab,38,Chemistry S4,41,Chemistry Lab,2
+180,180,38,12G,English,7,English S4,38,12G,5
+181,181,38,12G,Maths,15,Maths T1,38,12G,6
+182,182,38,12G,Physics,34,Physics S5,38,12G,4
+183,183,38,12G,Physics Lab,34,Physics S5,40,Physics Lab,2
+184,184,38,12G,Chemistry,39,Chemistry S5,38,12G,4
+185,185,38,12G,Chemistry Lab,39,Chemistry S5,41,Chemistry Lab,2
+186,186,39,12H,English,7,English S4,39,12H,5
+187,187,39,12H,Maths,17,Maths T3,39,12H,6
+188,188,39,12H,Physics,34,Physics S5,39,12H,4
+189,189,39,12H,Physics Lab,34,Physics S5,40,Physics Lab,2
+190,190,39,12H,Chemistry,39,Chemistry S5,39,12H,4
+191,191,39,12H,Chemistry Lab,39,Chemistry S5,41,Chemistry Lab,2
+192,192,"0, 1, 2, ","7A, 7B, 7C",French,51,French 1,,,3
+193,192,"0, 1, 2, ","7A, 7B, 7C",Japanese,52,Japanese 1,,,3
+194,192,"0, 1, 2, ","7A, 7B, 7C",Sanskrit,53,Sanskrit 1,,,3
+195,193,"3, 4, 5, ","7D, 7E, 7F",French,51,French 1,,,3
+196,193,"3, 4, 5, ","7D, 7E, 7F",Japanese,52,Japanese 1,,,3
+197,193,"3, 4, 5, ","7D, 7E, 7F",Sanskrit,53,Sanskrit 1,,,3
+198,194,"6, 7, 8, ","8A, 8B, 8C",French,51,French 1,,,3
+199,194,"6, 7, 8, ","8A, 8B, 8C",Japanese,52,Japanese 1,,,3
+200,194,"6, 7, 8, ","8A, 8B, 8C",Sanskrit,53,Sanskrit 1,,,3
+201,195,"9, 10, 11, ","8D, 8E, 8F",French,51,French 1,,,3
+202,195,"9, 10, 11, ","8D, 8E, 8F",Japanese,52,Japanese 1,,,3
+203,195,"9, 10, 11, ","8D, 8E, 8F",Sanskrit,53,Sanskrit 1,,,3
+204,196,"12, 13, 14, ","9A, 9B, 9C",French,51,French 1,,,3
+205,196,"12, 13, 14, ","9A, 9B, 9C",Japanese,52,Japanese 1,,,3
+206,196,"12, 13, 14, ","9A, 9B, 9C",Sanskrit,53,Sanskrit 1,,,3
+207,197,"15, 16, 17, ","9D, 9E, 9F",French,51,French 1,,,3
+208,197,"15, 16, 17, ","9D, 9E, 9F",Japanese,52,Japanese 1,,,3
+209,197,"15, 16, 17, ","9D, 9E, 9F",Sanskrit,53,Sanskrit 1,,,3
+210,198,"18, 19, 20, ","10A, 10B, 10C",French,51,French 1,,,3
+211,198,"18, 19, 20, ","10A, 10B, 10C",Japanese,52,Japanese 1,,,3
+212,198,"18, 19, 20, ","10A, 10B, 10C",Sanskrit,53,Sanskrit 1,,,3
+213,199,"21, 22, 23, ","10D, 10E, 10F",French,51,French 1,,,3
+214,199,"21, 22, 23, ","10D, 10E, 10F",Japanese,52,Japanese 1,,,3
+215,199,"21, 22, 23, ","10D, 10E, 10F",Sanskrit,53,Sanskrit 1,,,3
+216,200,"0, 1, 2, ","7A, 7B, 7C",Psychology,47,Psychology 1,,,4
+217,200,"0, 1, 2, ","7A, 7B, 7C",Economics,49,Economic 1,,,4
+218,200,"0, 1, 2, ","7A, 7B, 7C",Sociology,48,Sociology 1,,,4
+219,200,"0, 1, 2, ","7A, 7B, 7C",Logic,46,Logic 1,,,4
+220,201,"3, 4, 5, ","7D, 7E, 7F",Psychology,47,Psychology 1,,,4
+221,201,"3, 4, 5, ","7D, 7E, 7F",Economics,49,Economic 1,,,4
+222,201,"3, 4, 5, ","7D, 7E, 7F",Sociology,48,Sociology 1,,,4
+223,201,"3, 4, 5, ","7D, 7E, 7F",Logic,46,Logic 1,,,4
+224,202,"6, 7, 8, ","8A, 8B, 8C",Psychology,47,Psychology 1,,,4
+225,202,"6, 7, 8, ","8A, 8B, 8C",Economics,49,Economic 1,,,4
+226,202,"6, 7, 8, ","8A, 8B, 8C",Sociology,48,Sociology 1,,,4
+227,202,"6, 7, 8, ","8A, 8B, 8C",Logic,46,Logic 1,,,4
+228,203,"9, 10, 11, ","8D, 8E, 8F",Psychology,47,Psychology 1,,,4
+229,203,"9, 10, 11, ","8D, 8E, 8F",Economics,49,Economic 1,,,4
+230,203,"9, 10, 11, ","8D, 8E, 8F",Sociology,48,Sociology 1,,,4
+231,203,"9, 10, 11, ","8D, 8E, 8F",Logic,46,Logic 1,,,4
+232,204,"12, 13, 14, ","9A, 9B, 9C",Psychology,47,Psychology 1,,,4
+233,204,"12, 13, 14, ","9A, 9B, 9C",Economics,49,Economic 1,,,4
+234,204,"12, 13, 14, ","9A, 9B, 9C",Sociology,48,Sociology 1,,,4
+235,204,"12, 13, 14, ","9A, 9B, 9C",Logic,46,Logic 1,,,4
+236,205,"15, 16, 17, ","9D, 9E, 9F",Psychology,47,Psychology 1,,,4
+237,205,"15, 16, 17, ","9D, 9E, 9F",Economics,49,Economic 1,,,4
+238,205,"15, 16, 17, ","9D, 9E, 9F",Sociology,48,Sociology 1,,,4
+239,205,"15, 16, 17, ","9D, 9E, 9F",Logic,46,Logic 1,,,4
+240,206,"18, 19, 20, ","10A, 10B, 10C",Psychology,47,Psychology 1,,,4
+241,206,"18, 19, 20, ","10A, 10B, 10C",Economics,49,Economic 1,,,4
+242,206,"18, 19, 20, ","10A, 10B, 10C",Sociology,48,Sociology 1,,,4
+243,206,"18, 19, 20, ","10A, 10B, 10C",Logic,46,Logic 1,,,4
+244,207,"21, 22, 23, ","10D, 10E, 10F",Psychology,47,Psychology 1,,,4
+245,207,"21, 22, 23, ","10D, 10E, 10F",Economics,49,Economic 1,,,4
+246,207,"21, 22, 23, ","10D, 10E, 10F",Sociology,48,Sociology 1,,,4
+247,207,"21, 22, 23, ","10D, 10E, 10F",Logic,46,Logic 1,,,4
+248,208,"24, 25, 26, 27, ","11A, 11B, 11C, 11D",Computers,42,Computer 1,,,6
+249,208,"24, 25, 26, 27, ","11A, 11B, 11C, 11D",Electronics,43,Electronics 1,,,6
+250,208,"24, 25, 26, 27, ","11A, 11B, 11C, 11D",TD,44,TD 1,,,6
+251,208,"24, 25, 26, 27, ","11A, 11B, 11C, 11D",Fine Arts,50,Fine Arts 1,,,6
+252,208,"24, 25, 26, 27, ","11A, 11B, 11C, 11D",Biology,45,Biology 1,,,6
+253,209,"28, 29, 30, 31, ","11E, 11F, 11G, 11H",Computers,42,Computer 1,,,6
+254,209,"28, 29, 30, 31, ","11E, 11F, 11G, 11H",Electronics,43,Electronics 1,,,6
+255,209,"28, 29, 30, 31, ","11E, 11F, 11G, 11H",TD,44,TD 1,,,6
+256,209,"28, 29, 30, 31, ","11E, 11F, 11G, 11H",Fine Arts,50,Fine Arts 1,,,6
+257,209,"28, 29, 30, 31, ","11E, 11F, 11G, 11H",Biology,45,Biology 1,,,6
+258,210,"32, 33, 34, 35, ","12A, 12B, 12C, 12D",Computers,42,Computer 1,,,6
+259,210,"32, 33, 34, 35, ","12A, 12B, 12C, 12D",Electronics,43,Electronics 1,,,6
+260,210,"32, 33, 34, 35, ","12A, 12B, 12C, 12D",TD,44,TD 1,,,6
+261,210,"32, 33, 34, 35, ","12A, 12B, 12C, 12D",Fine Arts,50,Fine Arts 1,,,6
+262,210,"32, 33, 34, 35, ","12A, 12B, 12C, 12D",Biology,45,Biology 1,,,6
+263,211,"36, 37, 38, 39, ","12E, 12F, 12G, 12H",Computers,42,Computer 1,,,6
+264,211,"36, 37, 38, 39, ","12E, 12F, 12G, 12H",Electronics,43,Electronics 1,,,6
+265,211,"36, 37, 38, 39, ","12E, 12F, 12G, 12H",TD,44,TD 1,,,6
+266,211,"36, 37, 38, 39, ","12E, 12F, 12G, 12H",Fine Arts,50,Fine Arts 1,,,6
+267,211,"36, 37, 38, 39, ","12E, 12F, 12G, 12H",Biology,45,Biology 1,,,6
+268,212,"24, 25, 26, 27, ","11A, 11B, 11C, 11D",PE,40,PE 1,,,2
+269,213,"28, 29, 30, 31, ","11E, 11F, 11G, 11H",PE,40,PE 1,,,2
+270,214,"32, 33, 34, 35, ","12A, 12B, 12C, 12D",PE,40,PE 1,,,2
+271,215,"36, 37, 38, 39, ","12E, 12F, 12G, 12H",PE,40,PE 1,,,2
+272,216,"24, 25, 26, 27, ","11A, 11B, 11C, 11D",AVH,41,AVH 1,,,3
+273,217,"28, 29, 30, 31, ","11E, 11F, 11G, 11H",AVH,41,AVH 1,,,3
+274,218,"32, 33, 34, 35, ","12A, 12B, 12C, 12D",AVH,41,AVH 1,,,3
+275,219,"36, 37, 38, 39, ","12E, 12F, 12G, 12H",AVH,41,AVH 1,,,3
+276,220,"0, 1, 2, ","7A, 7B, 7C",PE,40,PE 1,,,2
+277,221,"3, 4, 5, ","7D, 7E, 7F",PE,40,PE 1,,,2
+278,222,"6, 7, 8, ","8A, 8B, 8C",PE,40,PE 1,,,2
+279,223,"9, 10, 11, ","8D, 8E, 8F",PE,40,PE 1,,,2
+280,224,"12, 13, 14, ","9A, 9B, 9C",PE,40,PE 1,,,2
+281,225,"15, 16, 17, ","9D, 9E, 9F",PE,40,PE 1,,,2
+282,226,"18, 19, 20, ","10A, 10B, 10C",PE,40,PE 1,,,2
+283,227,"21, 22, 23, ","10D, 10E, 10F",PE,40,PE 1,,,2
+284,228,"0, 1, 2, ","7A, 7B, 7C",AVH,41,AVH 1,,,2
+285,229,"3, 4, 5, ","7D, 7E, 7F",AVH,41,AVH 1,,,2
+286,230,"6, 7, 8, ","8A, 8B, 8C",AVH,41,AVH 1,,,2
+287,231,"9, 10, 11, ","8D, 8E, 8F",AVH,41,AVH 1,,,2
+288,232,"12, 13, 14, ","9A, 9B, 9C",AVH,41,AVH 1,,,2
+289,233,"15, 16, 17, ","9D, 9E, 9F",AVH,41,AVH 1,,,2
+290,234,"18, 19, 20, ","10A, 10B, 10C",AVH,41,AVH 1,,,2
+291,235,"21, 22, 23, ","10D, 10E, 10F",AVH,41,AVH 1,,,2
+292,236,"0, 20, ","7A, 10C",Library,54,Librarian,,,1
+293,237,"1, 21, ","7B, 10D",Library,54,Librarian,,,1
+294,238,"2, 22, ","7C, 10E",Library,54,Librarian,,,1
+295,239,"3, 23, ","7D, 10F",Library,54,Librarian,,,1
+296,240,"4, 24, ","7E, 11A",Library,54,Librarian,,,1
+297,241,"5, 25, ","7F, 11B",Library,54,Librarian,,,1
+298,242,"6, 26, ","8A, 11C",Library,54,Librarian,,,1
+299,243,"7, 27, ","8B, 11D",Library,54,Librarian,,,1
+300,244,"8, 28, ","8C, 11E",Library,54,Librarian,,,1
+301,245,"9, 29, ","8D, 11F",Library,54,Librarian,,,1
+302,246,"10, 30, ","8E, 11G",Library,54,Librarian,,,1
+303,247,"11, 31, ","8F, 11H",Library,54,Librarian,,,1
+304,248,"12, 32, ","9A, 12A",Library,54,Librarian,,,1
+305,249,"13, 33, ","9B, 12B",Library,54,Librarian,,,1
+306,250,"14, 34, ","9C, 12C",Library,54,Librarian,,,1
+307,251,"15, 35, ","9D,12D",Library,54,Librarian,,,1
+308,252,"16, 36, ","9E, 12E",Library,54,Librarian,,,1
+309,253,"17, 37, ","9F, 12F",Library,54,Librarian,,,1
+310,254,"18, 38, ","10A, 12G",Library,54,Librarian,,,1
+311,255,"19, 39, ","10B, 12H",Library,54,Librarian,,,1
